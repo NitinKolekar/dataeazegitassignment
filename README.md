@@ -10,3 +10,5 @@ b. Click on ‘+’ sign left hand side panel there is one ‘ACTIONS’ item na
 ‘Fork’
 c. Click on Fork. It will take you through a form
 d. Click on ‘Fork Repository’
+
+Clone a repository to local machine
